@@ -1,0 +1,2 @@
+# KSPractices
+Kafka Streams
